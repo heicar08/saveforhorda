@@ -2,13 +2,13 @@
 Tutorial=-3458764513820540925
 Human=-1152921504606842881
 Undead=-6917529027641080833
-Orc=-9223372036854775297
-NightElf=576460752303423488
+Orc=-6917529027641079809
+NightElf=-9223372036854775745
 PlayerName=noone00
-ShowScreen=3
+ShowScreen=4
 TutorialCleared=1
 Difficulty=1
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=-959846535
+Magic=-649266197
 
